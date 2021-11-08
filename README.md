@@ -70,7 +70,7 @@ infer_airbus.py              | ./tools/infer_simple.py
 
 #### 4. Change the configuration file and run
 
- Confirm the .yaml file in `./2_model/model/` and start training. In addition, remember to use `|tee` command, so you can get the log file like [./2_model/log/20181103.log](https://github.com/pascal1129/airbus_ship_detection/blob/master/2_model/log/20181103.log)
+ Confirm the .yaml file in `./2_model/model/` and start training. In addition, remember to use `|tee` command, so you can get the log file like [./2_model/log/20181103.log](https://github.com/KIKI-YANG98/Airbus-Ship-Detection-Challenge/blob/055af2e445026b3f0d727b2b83273795264c9bef/2_model/log/202210.log)
 
 
 
@@ -78,7 +78,7 @@ infer_airbus.py              | ./tools/infer_simple.py
 
 Run `./2_model/analyse_log.py`, then you can get the visualization picture.
 
-![result](https://github.com/pascal1129/airbus_ship_detection/blob/master/2_model/log/20181103.png)
+![result](https://github.com/KIKI-YANG98/Airbus-Ship-Detection-Challenge/blob/055af2e445026b3f0d727b2b83273795264c9bef/2_model/log/202210.log)
 
 
 
