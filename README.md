@@ -51,8 +51,6 @@ My codes are based on [Detectron](https://github.com/facebookresearch/Detectron)
 $ docker pull pascal1129/detectron:caffe2_cuda9_aliyun
 ```
 
-In order to get the latest docker image, you can build the latest image with the official dockerfile: [Detectron/docker/Dockerfile](https://github.com/facebookresearch/Detectron/blob/master/docker/Dockerfile).
-
 
 
 #### 3. Msodify the source code in detectron 
